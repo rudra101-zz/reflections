@@ -9,3 +9,7 @@ Q. Why might you want to always pull changes manually rather than having Git aut
 Q. Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 --> Fork is used to copy repositories on GitHub server. Clones are used to copy repositories from github to the local computer,vice-versa and in the local server. Branches are used when implementing different features or making provate changes.
+
+Q. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+--> As it is with collaboration, we can keep track of the last made change on our project.
